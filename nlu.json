@@ -76,6 +76,12 @@
       "text" : "пока"
     }, {
       "text" : "До свидание "
+    }, {
+      "text" : "спасибо"
+    }, {
+      "text" : "окей"
+    }, {
+      "text" : "ок"
     } ],
     "classificationRules" : {
       "refs" : [ ]
