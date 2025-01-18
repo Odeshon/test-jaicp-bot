@@ -23,6 +23,52 @@
     }
   },
   "intents" : [ {
+    "path" : "/да",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "да"
+    }, {
+      "text" : "так"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "path" : "/Бодибилдер",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Бодибилдер"
+    }, {
+      "text" : "Бодебилдер"
+    }, {
+      "text" : "Бадибилдер"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "path" : "/Шварцнегр",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Шварцнегр"
+    }, {
+      "text" : "Шварценегр"
+    }, {
+      "text" : "Шварц"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
     "path" : "/пока",
     "enabled" : true,
     "shared" : false,
@@ -46,6 +92,22 @@
       "text" : "Здравствуйте"
     }, {
       "text" : "Хай"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "path" : "/Подснежник",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Подснежник "
+    }, {
+      "text" : "Под"
+    }, {
+      "text" : "Подснеж"
     } ],
     "classificationRules" : {
       "refs" : [ ]
