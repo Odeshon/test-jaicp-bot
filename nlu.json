@@ -46,6 +46,10 @@
       "text" : "Бодебилдер"
     }, {
       "text" : "Бадибилдер"
+    }, {
+      "text" : "второй"
+    }, {
+      "text" : "2"
     } ],
     "classificationRules" : {
       "refs" : [ ]
@@ -62,6 +66,10 @@
       "text" : "Шварценегр"
     }, {
       "text" : "Шварц"
+    }, {
+      "text" : "3"
+    }, {
+      "text" : "третий"
     } ],
     "classificationRules" : {
       "refs" : [ ]
@@ -114,6 +122,28 @@
       "text" : "Под"
     }, {
       "text" : "Подснеж"
+    }, {
+      "text" : "1"
+    }, {
+      "text" : "первый"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "path" : "/Какдела",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Как дела?"
+    }, {
+      "text" : "Как у вас дела?"
+    }, {
+      "text" : "Как вы?"
+    }, {
+      "text" : "Как ваше настроение?"
     } ],
     "classificationRules" : {
       "refs" : [ ]
